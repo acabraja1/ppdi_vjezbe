@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Student.xslt"?>
+<Student>
+    <Ime>Antonio</Ime>
+    <Prezime>Čabraja</Prezime>
+    <Godina>Druga</Godina>
+    <JMBG>0246118654</JMBG>
+    <Datum>2025-10-12</Datum>
+
+    <Kontakt>
+        <Email>acabraja@tvz.hr</Email>
+        <Telefon>+385923360896</Telefon>
+    </Kontakt>
+
+    <Kolegiji>
+        <Kolegij>
+            <Naziv>Programiranje web aplikacija</Naziv>
+            <Profesor>Alen Šimec</Profesor>
+            <Ects>5</Ects>
+        </Kolegij>
+        <Kolegij>
+            <Naziv>Digitalna fotografija</Naziv>
+            <Profesor>Milan Bajić</Profesor>
+            <Ects>4</Ects>
+        </Kolegij>
+        <Kolegij>
+            <Naziv>Grafički dizajn</Naziv>
+            <Profesor>Jana Žiljak Gršić</Profesor>
+            <Ects>6</Ects>
+        </Kolegij>
+    </Kolegiji>
+</student>

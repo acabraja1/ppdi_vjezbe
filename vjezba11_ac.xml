@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Student.xslt"?>
+<Student>
+    <Ime>Antonio</Ime>
+    <Prezime>Čabraja</Prezime>
+    <Godina>Druga</Godina>
+    <JMBG>0246118654</JMBG>
+    <Datum>2025-10-12</Datum>
+    <studijski_program>Informatički dizajn</studijski_program>
+
+    <Adresa>
+        <Ulica>Savska ulica 12</Ulica>
+        <Grad>Zagreb</Grad>
+        <Postanski_broj>10000</Postanski_broj>
+    </Adresa>
+</Student>
